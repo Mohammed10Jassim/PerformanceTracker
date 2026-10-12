@@ -1,0 +1,43 @@
+services:
+  postgres:
+    image: postgres:18
+    container_name: performance-postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: performance_tracker
+      POSTGRES_USER: ${DB_USERNAME:?Set DB_USERNAME in backend/.env}
+      POSTGRES_PASSWORD: ${DB_PASSWORD:?Set DB_PASSWORD in backend/.env}
+    volumes:
+      - performance_tracker_data:/var/lib/postgresql
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U $${POSTGRES_USER} -d $${POSTGRES_DB}"]
+      interval: 10s
+      timeout: 5s
+      retries: 10
+
+  app:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile
+    image: performance-tracker:latest
+    container_name: performance-tracker-app
+    restart: unless-stopped
+    depends_on:
+      postgres:
+        condition: service_healthy
+    env_file:
+      - ../backend/.env
+    environment:
+      SPRING_PROFILES_ACTIVE: prod
+      DB_URL: jdbc:postgresql://postgres:5432/performance_tracker
+      KEYCLOAK_ISSUER_URI: http://192.168.0.57:8081/realms/rkt
+      KEYCLOAK_JWK_SET_URI: http://192.168.0.57:8081/realms/rkt/protocol/openid-connect/certs
+      KEYCLOAK_SERVER_URL: http://192.168.0.57:8081
+      KEYCLOAK_ADMIN_REALM: rkt
+      KEYCLOAK_TARGET_REALM: rkt
+      KEYCLOAK_ADMIN_CLIENT_ID: performance-tracker-admin
+    ports:
+      - "8080:8080"
+
+volumes:
+  performance_tracker_data:

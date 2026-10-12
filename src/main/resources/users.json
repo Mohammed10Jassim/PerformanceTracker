@@ -1,0 +1,607 @@
+{
+  "users": [
+    {
+      "name" : "Geeta Sharma",
+      "email" : "Geeta.Sharma@Kirtitec.com"
+    },
+    {
+      "name" : "Ved Prakash Sharma",
+      "email" : "ved.sharma@kirtitec.com"
+    },
+    {
+      "name" : "Amit Kumar",
+      "email" : "amit.kumar@kirtitec.com"
+    },
+    {
+      "name" : "Ramashankar Laxkar",
+      "email" : "rama.laxkar@kirtitec.com"
+    },
+    {
+      "name" : "Vipin Dubey",
+      "email" : "vipin.dubey@kirtitec.com"
+    },
+    {
+      "name" : "V.SANKARANARAYANAN",
+      "email" : "Sankarnarayanan.venkatraman@kirtitec.com"
+    },
+    {
+      "name" : "Ashish Kumar Yadav",
+      "email" : "ashish.yadav@kirtitec.com"
+    },
+    {
+      "name" : "Bhushan Sawalkar",
+      "email" : "bhushan.sawalkar@kirtitec.com"
+    },
+    {
+      "name" : "Sudhir",
+      "email" : "sudhir.kumar@kirtitec.com"
+    },
+    {
+      "name" : "Pooja Agarwal",
+      "email" : "Pooja.Agarwal@kirtitec.com"
+    },
+    {
+      "name" : "Mohemmad Muddassir",
+      "email" : "Mohd.Muddassir@kirtitec.com"
+    },
+    {
+      "name" : "Kanchan Sharma",
+      "email" : "Kanchan.Sharma@kirtitec.com"
+    },
+    {
+      "name" : "Madhu Minakshi",
+      "email" : "Madhu.Minakshi@kirtitec.com"
+    },
+    {
+      "name" : "Ravinder Kumar",
+      "email" : "Ravinder.Kumar@kirtitec.com"
+    },
+    {
+      "name" : "Rohit Sharma",
+      "email" : "rohit.sharma@kirtitec.com"
+    },
+    {
+      "name" : "Alok Jain",
+      "email" : "Alok.Jain@kirtitec.com"
+    },
+    {
+      "name" : "Jatin Arora",
+      "email" : "Jatin.Arora@Kirtitec.com"
+    },
+    {
+      "name" : "Sandeep Singh Sindhu",
+      "email" : "Sandeep.Sindhu@kirtitec.com"
+    },
+    {
+      "name" : "Brajesh Kumar",
+      "email" : "Brajesh.kumar@kirtitec.com"
+    },
+    {
+      "name" : "Kalla Appala Naidu",
+      "email" : "kalla.naidu@kirtitec.com"
+    },
+    {
+      "name" : "Vikas Sharma",
+      "email" : "vikas.sharma@kirtitec.com"
+    },
+    {
+      "name" : "Abhimanyu Kumar",
+      "email" : "abhimanyu.kumar@kirtitec.com"
+    },
+    {
+      "name" : "Ayyappan Ramalingam",
+      "email" : "ayyappan.ramalingam@kirtitec.com"
+    },
+    {
+      "name" : "Ambuj Bajpai",
+      "email" : "ambuj.bajpai@kirtitec.com"
+    },
+    {
+      "name" : "Subhashish Kumar",
+      "email" : "subhashish.kumar@kirtitec.com"
+    },
+    {
+      "name" : "Dharmveer Sharma",
+      "email" : "dharmveer.sharma@kirtitec.com"
+    },
+    {
+      "name" : "Deepak Sharma",
+      "email" : "deepak.sharma@kirtitec.com"
+    },
+    {
+      "name" : "Aditya Chauhan",
+      "email" : "aditya.chauhan@kirtitec.com"
+    },
+    {
+      "name" : "Nivesh Kumar",
+      "email" : "nivesh.kumar@kirtitec.com"
+    },
+    {
+      "name" : "Astha Kulshreshtha",
+      "email" : "astha.kulshrestha@kirtitec.com"
+    },
+    {
+      "name" : "Nitish Kumar",
+      "email" : "Nitish.kumar@kirtitec.com"
+    },
+    {
+      "name" : "Saurabh Dhariwal",
+      "email" : "saurabh.dhariwal@kirtitec.com"
+    },
+    {
+      "name" : "Kajal Sharma",
+      "email" : "kajal.sharma@kirtitec.com"
+    },
+    {
+      "name" : "Arshdeep Soni",
+      "email" : "arshdeep.soni@kirtitec.com"
+    },
+    {
+      "name" : "Aakash Kumar",
+      "email" : "aakash.kumar@kirtitec.com"
+    },
+    {
+      "name" : "Neeraj Bisht",
+      "email" : "neeraj.bisht@kirtitec.com"
+    },
+    {
+      "name" : "Sweeti Sagar",
+      "email" : "sweeti.sagar@kirtitec.com"
+    },
+    {
+      "name" : "Pradeep  Jalal",
+      "email" : "pradeep.jalal@kirtitec.com"
+    },
+    {
+      "name" : "Nishu Chaudhary",
+      "email" : "nishu.chaudhary@kirtitec.com"
+    },
+    {
+      "name" : "Shubham .",
+      "email" : "shubham.nagar@kirtitec.com"
+    },
+    {
+      "name" : "Ankit Singh",
+      "email" : "ankit.singh@kirtitec.com"
+    },
+    {
+      "name" : "Raju Singh",
+      "email" : "raju.singh@kirtitec.com"
+    },
+    {
+      "name" : "Hritik Chauhan",
+      "email" : "hritik.chauhan@kirtitec.com"
+    },
+    {
+      "name" : "Nitlesh Patel",
+      "email" : "nitlesh.patel@kirtitec.com"
+    },
+    {
+      "name" : "Preetam Poonia",
+      "email" : "preetam.poonia@kirtitec.com"
+    },
+    {
+      "name" : "Ravinder Singh",
+      "email" : "ravinder.singh@kirtitec.com"
+    },
+    {
+      "name" : "Anish Kumar",
+      "email" : "anish.kumar@kirtitec.com"
+    },
+    {
+      "name" : "Deepika Sajwan",
+      "email" : "deepika.sajwan@kirtitec.com"
+    },
+    {
+      "name" : "Pritesh Rathore",
+      "email" : "Pritesh.rathore@kirtitec.com"
+    },
+    {
+      "name" : "Vishal Sutar",
+      "email" : "vishal.sutar@kirtitec.com"
+    },
+    {
+      "name" : "Anshul Rathore",
+      "email" : "anshul.rathore@kirtitec.com"
+    },
+    {
+      "name" : "Ayush Yadav",
+      "email" : "ayush.yadav@kirtitec.com"
+    },
+    {
+      "name" : "Kirtika Kushwah",
+      "email" : "kirtika.kushwah@kirtitec.com"
+    },
+    {
+      "name" : "Lokesh Keshri",
+      "email" : "lokesh.keshri@kirtitec.com"
+    },
+    {
+      "name" : "Navneet Sharma",
+      "email" : "navneet.sharma@kirtitec.com"
+    },
+    {
+      "name" : "Rohit  Kumar",
+      "email" : "rohit.kumar@kirtitec.com"
+    },
+    {
+      "name" : "Ashish kumar",
+      "email" : "ashish.kumar@kirtitec.com"
+    },
+    {
+      "name" : "Piyush Koley",
+      "email" : "piyush.koley@kirtitec.com"
+    },
+    {
+      "name" : "Amresh Mishra",
+      "email" : "amresh.mishra@kirtitec.com"
+    },
+    {
+      "name" : "Pranav Satyawali",
+      "email" : "pranav.satyawali@kirtitec.com"
+    },
+    {
+      "name" : "Ruksar Parveen",
+      "email" : "ruksar.parveen@kirtitec.com"
+    },
+    {
+      "name" : "Suraj Shivalkar",
+      "email" : "suraj.shivalkar@kirtitec.com"
+    },
+    {
+      "name" : "Deepansh Kulshreshtha",
+      "email" : "deepansh.kulshreshtha@kirtitec.com"
+    },
+    {
+      "name" : "Shivam Rajpoot",
+      "email" : "shivam.rajpoot@kirtitec.com"
+    },
+    {
+      "name" : "Venus ",
+      "email" : "venus.tuteja@kirtitec.com"
+    },
+    {
+      "name" : "Priya Singh",
+      "email" : "priya.singh@kirtitec.com"
+    },
+    {
+      "name" : "Tanaya Kand",
+      "email" : "tanaya.kand@kirtitec.com"
+    },
+    {
+      "name" : "Mayank Sharma",
+      "email" : "mayank.sharma@kirtitec.com"
+    },
+    {
+      "name" : "Durgesh Kumar",
+      "email" : "durgesh.kumar@kirtitec.com"
+    },
+    {
+      "name" : "Karan",
+      "email" : "karan.gupta@kirtitec.com"
+    },
+    {
+      "name" : "Niroj Kumar Meher",
+      "email" : "niroj.meher@kirtitec.com"
+    },
+    {
+      "name" : "Ronak Rana",
+      "email" : "ronak.rana@kirtitec.com"
+    },
+    {
+      "name" : "Ankit Singh1",
+      "email" : "ankit.singh1@kirtitec.com"
+    },
+    {
+      "name" : "Kirti Sharma",
+      "email" : "kirti.sharma@kirtitec.com"
+    },
+    {
+      "name" : "Prashant Joshi",
+      "email" : "prashant.joshi@kirtitec.com"
+    },
+    {
+      "name" : "Sobhi",
+      "email" : "jogendra.kumar1@kirtitec.com"
+    },
+    {
+      "name" : "Aniket Srivastava",
+      "email" : "aniket.srivastava@kirtitec.com"
+    },
+    {
+      "name" : "Vaishnavi Gaur",
+      "email" : "Vaishnavi.Gaur@kirtitec.com"
+    },
+    {
+      "name" : "Harshita Jhiriwal",
+      "email" : "harshita.jhiriwal@kirtitec.com"
+    },
+    {
+      "name" : "Charu Tomar",
+      "email" : "charu.tomar@kirtitec.com"
+    },
+    {
+      "name" : "Rajeev Kaushik",
+      "email" : "rajeev.kaushik@kirtitec.com"
+    },
+    {
+      "name" : "Hrishikesh",
+      "email" : "hrishikesh.bhat@kirtitec.com"
+    },
+    {
+      "name" : "Suryanarayana Jagata",
+      "email" : "suryanarayana.jagata@kirtitec.com"
+    },
+    {
+      "name" : "Imran Khan",
+      "email" : "Imran.Khan@kirtitec.com"
+    },
+    {
+      "name" : "Aakash Chaurasiya",
+      "email" : "aakash.chaurasiya@kirtitec.com"
+    },
+    {
+      "name" : "Akash  Kumar",
+      "email" : "akash.kumar@kirtitec.com"
+    },
+    {
+      "name" : "Rajkamal",
+      "email" : "rajkamal.pal@kirtitec.com"
+    },
+    {
+      "name" : "Sudhir Kumar Yadav",
+      "email" : "sudhir.yadav@kirtitec.com"
+    },
+    {
+      "name" : "Hitesh Shadija",
+      "email" : "hitesh.shadija@kirtitec.com"
+    },
+    {
+      "name" : "Vendra Phani Kumar",
+      "email" : "phani.vendra@kirtitec.com"
+    },
+    {
+      "name" : "Nitin Pal",
+      "email" : "nitin.pal@kirtitec.com"
+    },
+    {
+      "name" : "Mohd Nasir",
+      "email" : "mohd.nasir@kirtitec.com"
+    },
+    {
+      "name" : "Rahul Kumar Jha",
+      "email" : "rahul.jha@kirtitec.com"
+    },
+    {
+      "name" : "R Senthil Sattanathan Karayalar",
+      "email" : "senthil.sattanathan@kirtitec.com"
+    },
+    {
+      "name" : "Tushar Gupta",
+      "email" : "tushar.gupta@kirtitec.com"
+    },
+    {
+      "name" : "Kolli Srikanth",
+      "email" : "srikanth.kolli@kirtitec.com"
+    },
+    {
+      "name" : "Niharika Patil",
+      "email" : "niharika.patil@kirtitec.com"
+    },
+    {
+      "name" : "Ajay Yadav",
+      "email" : "ajay.yadav@kirtitec.com"
+    },
+    {
+      "name" : "Khushi Verma",
+      "email" : "khushi.verma@kirtitec.com"
+    },
+    {
+      "name" : "Anurag Mishra",
+      "email" : "anurag.mishra@kirtitec.com"
+    },
+    {
+      "name" : "Ankit Kumar",
+      "email" : "ankit.kumar1@kirtitec.com"
+    },
+    {
+      "name" : "Shiva Sharma",
+      "email" : "shiva.sharma@kirtitec.com"
+    },
+    {
+      "name" : "Rajesh Patil",
+      "email" : "rajesh.patil@kirtitec.com"
+    },
+    {
+      "name" : "Nikhil Chavan",
+      "email" : "nikhil.chavan@kirtitec.com"
+    },
+    {
+      "name" : "Lalit Sati",
+      "email" : "lalit.sati@kirtitec.com"
+    },
+    {
+      "name" : "Pallav Garg",
+      "email" : "pallav.garg@kirtitec.com"
+    },
+    {
+      "name" : "Kusuma Vuyyuri",
+      "email" : "kusuma.vuyyuri@kirtitec.com"
+    },
+    {
+      "name" : "Sujata Zatakia",
+      "email" : "sujata.zatakia@kirtitec.com"
+    },
+    {
+      "name" : "Mohammed Jassim",
+      "email" : "mohammed.jassim@kirtitec.com"
+    },
+    {
+      "name" : "Mukesh Abhyankar",
+      "email" : "mukesh.abhyankar@kirtitec.com"
+    },
+    {
+      "name" : "Jogendra Kumar",
+      "email" : "jogendra.kumar@kirtitec.com"
+    },
+    {
+      "name" : "Aastha Maurya",
+      "email" : "aastha.maurya@kirtitec.com"
+    },
+    {
+      "name" : "Harsh Sahay",
+      "email" : "harsh.sahay@kirtitec.com"
+    },
+    {
+      "name" : "Harshit Bansal",
+      "email" : "harshit.bansal@kirtitec.com"
+    },
+    {
+      "name" : "Manish Gupta",
+      "email" : "manish.gupta@kirtitec.com"
+    },
+    {
+      "name" : "Nikhil Singh",
+      "email" : "nikhil.singh@kirtitec.com"
+    },
+    {
+      "name" : "Priyanka Pal",
+      "email" : "priyanka.pal@kirtitec.com"
+    },
+    {
+      "name" : "Raju Kumar Singh",
+      "email" : "raju.singh1@kirtitec.com"
+    },
+    {
+      "name" : "Priyanshu Kumar Srivastava",
+      "email" : "priyanshu.srivastava@kirtitec.com"
+    },
+    {
+      "name" : "Sneha Gupta",
+      "email" : "sneha.gupta@kirtitec.com"
+    },
+    {
+      "name" : "Vikas Yadav",
+      "email" : "vikas.yadav@kirtitec.com"
+    },
+    {
+      "name" : "Parag Awthankar",
+      "email" : "parag.awthankar@kirtitec.com"
+    },
+    {
+      "name" : "Anmol Gupta",
+      "email" : "anmol.gupta@kirtitec.com"
+    },
+    {
+      "name" : "Kartik Meena",
+      "email" : "kartik.meena@kirtitec.com"
+    },
+    {
+      "name" : "Apurav Singh",
+      "email" : "apurav.singh@kirtitec.com"
+    },
+    {
+      "name" : "Pawan Singh",
+      "email" : "pawan.singh@kirtitec.com"
+    },
+    {
+      "name" : "Harshvardhan Gupta",
+      "email" : "harshvardhan.gupta@kirtitec.com"
+    },
+    {
+      "name" : "Shivendra Upadhyay",
+      "email" : "shivendra.upadhyay@kirtitec.com"
+    },
+    {
+      "name" : "Akash Chaudhary ",
+      "email" : "akash.chaudhary@kirtitec.com"
+    },
+    {
+      "name" : "Shubham Jain",
+      "email" : "shubham.jain@kirtitec.com"
+    },
+    {
+      "name" : "Azim Khan",
+      "email" : "azim.khan@kirtitec.com"
+    },
+    {
+      "name" : "Subham Mahana",
+      "email" : "subham.mahana@kirtitec.com"
+    },
+    {
+      "name" : "Dnyaneshwar Belokar",
+      "email" : "dnyaneshwar.belokar@kirtitec.com"
+    },
+    {
+      "name" : "Rohidas Kashinath Waghchoure",
+      "email" : "rohidas.waghchoure@kirtitec.com"
+    },
+    {
+      "name" : "Sakshi Jha",
+      "email" : "sakshi.jha@kirtitec.com"
+    },
+    {
+      "name" : "Mohd Ahmed Raza",
+      "email" : "mohd.ahmed@kirtitec.com"
+    },
+    {
+      "name" : "Mohit Patil",
+      "email" : "mohit.patil@kirtitec.com"
+    },
+    {
+      "name" : "Rupali Gajare",
+      "email" : "rupali.gajare@kirtitec.com"
+    },
+    {
+      "name" : "Rushikesh Kengar",
+      "email" : "rushikesh.kengar@kirtitec.com"
+    },
+    {
+      "name" : "Sahil Tamboli",
+      "email" : "sahil.tamboli@kirtitec.com"
+    },
+    {
+      "name" : "Sayali Hote",
+      "email" : "sayali.hote@kirtitec.com"
+    },
+    {
+      "name" : "Mohammad Zaid",
+      "email" : "mohammad.zaid@kirtitec.com"
+    },
+    {
+      "name" : "Ashok Koti",
+      "email" : "ashok.koti@kirtitec.com"
+    },
+    {
+      "name" : "Suraj Raj",
+      "email" : "suraj.raj@kirtitec.com"
+    },
+    {
+      "name" : "Ambuj Tripathi",
+      "email" : "ambuj.tripathi@kirtitec.com"
+    },
+    {
+      "name" : "Aluru Shashidhar Reddy",
+      "email" : "Shashidhar.aluru@kirtitec.com"
+    },
+    {
+      "name" : "Ananya Sinha",
+      "email" : "ananya.sinha@kirtitec.com"
+    },
+    {
+      "name" : "Rishab Sharma",
+      "email" : "rishab.sharma@kirtitec.com"
+    },
+    {
+      "name" : "Harshit Kumar Paliwal",
+      "email" : "harshit.paliwal@kirtitec.com"
+    },
+    {
+      "name" : "Avinash Ranjan",
+      "email" : "avinash.ranjan@kirtitec.com"
+    },
+    {
+      "name" : "Sudhanshu Kumar Verma",
+      "email" : "sudhanshu.verma@kirtitec.com"
+    }
+  ]}
